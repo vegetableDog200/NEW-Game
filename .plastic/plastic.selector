@@ -1,0 +1,4 @@
+repository "New Game@ssl://x_xdemo@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1065164542" 
+     
