@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 repository "NewGame@ssl://x_xdemo@sh01-plasticscm.unity.cn:8787"
+=======
+repository "New Game@ssl://x_xdemo@sh01-plasticscm.unity.cn:8787"
+>>>>>>> bd49463817f761a286262f46b1f758e136ff0b3c
   path "/"
     smartbranch "/main/1065164542" 
      
